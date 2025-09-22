@@ -1,4 +1,4 @@
-# Arithmetic-operation-using-8086
+
 # 8086 Assembly Language Programs for Arithmetic Operations
 
 ## AIM
@@ -61,11 +61,15 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+![WhatsApp Image 2025-09-22 at 09 28 56_440c8311](https://github.com/user-attachments/assets/3bb76726-88ad-49d0-ae7c-ec1fbd9244d3)
 
----
+
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+![WhatsApp Image 2025-09-14 at 17 47 09_d86349e5](https://github.com/user-attachments/assets/f85ab38e-89d2-4d7f-8e10-642026f8aba3)
+![WhatsApp Image 2025-09-14 at 17 47 10_7fdf72ac](https://github.com/user-attachments/assets/5ebf633a-c767-4a04-a8db-8d711416e34d)
+
+
 
 ## 2. SUBTRACTION
 
@@ -112,12 +116,14 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
-
----
+![WhatsApp Image 2025-09-22 at 09 28 51_83728b38](https://github.com/user-attachments/assets/97bc21b8-85c7-4f79-aafc-48f37a3e335b)
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="687" height="399" alt="Screenshot 2025-09-14 174759" src="https://github.com/user-attachments/assets/70ef06db-72cb-4b36-9fbc-aff6325836f2" />
+<img width="784" height="481" alt="Screenshot 2025-09-14 174809" src="https://github.com/user-attachments/assets/064e7c24-18d5-440c-9ac3-bfef8f809c08" />
+
+
 
 ## 3. MULTIPLICATION
 
@@ -161,11 +167,15 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+![WhatsApp Image 2025-09-22 at 09 28 57_c058d598](https://github.com/user-attachments/assets/d9ab00b5-5b53-40a0-b2b9-e7d4e16ef249)
 
----
+
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="769" height="453" alt="Screenshot 2025-09-14 174849" src="https://github.com/user-attachments/assets/18c545c5-3aeb-43a7-8f5b-1754822459db" />
+<img width="786" height="522" alt="Screenshot 2025-09-14 174909" src="https://github.com/user-attachments/assets/0d5157fb-be3f-45e9-8027-52827736211f" />
+
+
 
 ## 4. DIVISION
 
@@ -205,11 +215,19 @@ END
 |                         |                          |
 
 #### Manual Calculations
+![WhatsApp Image 2025-09-22 at 09 28 45_3856e7e7](https://github.com/user-attachments/assets/36194f50-981c-423a-bb3f-5954edf2aa7c)
 
-(Add your calculation here)
 
----
+
+
 ## OUTPUT FROM MASM SOFTWARE
+<img width="782" height="445" alt="Screenshot 2025-09-14 175000" src="https://github.com/user-attachments/assets/11416e8d-a5c8-4419-83ad-6a1e7bd5462c" />
+
+<img width="796" height="519" alt="Screenshot 2025-09-14 175019" src="https://github.com/user-attachments/assets/e887d635-4ce6-4a88-beba-3b7e6e9b143f" />
+
+
+
+
 
 
 
